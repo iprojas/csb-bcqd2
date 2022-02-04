@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "https://iprojas.github.io/csb-bcqd2/static/css/main.78a69c38.chunk.css",
-    "main.js": "https://iprojas.github.io/csb-bcqd2/static/js/main.9f58d6ca.chunk.js",
-    "main.js.map": "https://iprojas.github.io/csb-bcqd2/static/js/main.9f58d6ca.chunk.js.map",
+    "main.js": "https://iprojas.github.io/csb-bcqd2/static/js/main.e97f6004.chunk.js",
+    "main.js.map": "https://iprojas.github.io/csb-bcqd2/static/js/main.e97f6004.chunk.js.map",
     "runtime-main.js": "https://iprojas.github.io/csb-bcqd2/static/js/runtime-main.d662d27b.js",
     "runtime-main.js.map": "https://iprojas.github.io/csb-bcqd2/static/js/runtime-main.d662d27b.js.map",
-    "static/js/2.9b1597b1.chunk.js": "https://iprojas.github.io/csb-bcqd2/static/js/2.9b1597b1.chunk.js",
-    "static/js/2.9b1597b1.chunk.js.map": "https://iprojas.github.io/csb-bcqd2/static/js/2.9b1597b1.chunk.js.map",
+    "static/js/2.85bd058c.chunk.js": "https://iprojas.github.io/csb-bcqd2/static/js/2.85bd058c.chunk.js",
+    "static/js/2.85bd058c.chunk.js.map": "https://iprojas.github.io/csb-bcqd2/static/js/2.85bd058c.chunk.js.map",
     "index.html": "https://iprojas.github.io/csb-bcqd2/index.html",
     "static/css/main.78a69c38.chunk.css.map": "https://iprojas.github.io/csb-bcqd2/static/css/main.78a69c38.chunk.css.map",
-    "static/js/2.9b1597b1.chunk.js.LICENSE.txt": "https://iprojas.github.io/csb-bcqd2/static/js/2.9b1597b1.chunk.js.LICENSE.txt"
+    "static/js/2.85bd058c.chunk.js.LICENSE.txt": "https://iprojas.github.io/csb-bcqd2/static/js/2.85bd058c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d662d27b.js",
-    "static/js/2.9b1597b1.chunk.js",
+    "static/js/2.85bd058c.chunk.js",
     "static/css/main.78a69c38.chunk.css",
-    "static/js/main.9f58d6ca.chunk.js"
+    "static/js/main.e97f6004.chunk.js"
   ]
 }
